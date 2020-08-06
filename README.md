@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Backend Developer Inter][@Digimonk Technologies]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Get Certified in AWS.
+- 🥅 2020 Goals: Learning AWS.
 - ⚡ Fun fact: I love to Play PC Games
 
 ### Connect with me:
