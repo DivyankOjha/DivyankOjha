@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DivyankOjha&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DivyankOjha&show_icons=true&hide_border=true&theme=radical" />
 
 [instagram]: https://www.instagram.com/divyankojha
 [linkedin]: https://www.linkedin.com/in/divyankojha
