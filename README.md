@@ -1,7 +1,7 @@
 ### Hi there, I'm Divyank Ojha 👋
 
 ## I'm a Developer! & Gamer!
-- 🔭 I’m currently working on a [Backend Developer Inter][@Digimonk Technologies]!
+- 🔭 I’m currently working as a Backend Developer Intern -> [digimonk]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning AWS.
@@ -37,3 +37,4 @@
 [instagram]: https://www.instagram.com/divyankojha
 [linkedin]: https://www.linkedin.com/in/divyankojha
 [github]: https://github.com/DivyankOjha
+[digimonk]: https://digimonk.in
