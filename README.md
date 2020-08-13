@@ -24,7 +24,7 @@
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://xebialabs.com/wp-content/uploads/files/tool-chest/mongodb.jpg" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="35px" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/04/postman-896x504.jpg" />
+<img align="left" alt="GitHub" width="30px" src="https://mms.businesswire.com/media/20190619005152/en/728506/23/pm-logo-vert%402x-100.jpg" />
 
 
 <br />
