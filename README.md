@@ -3,7 +3,6 @@
 ## I'm a Developer! & Gamer!
 - 🔭 I’m currently working as a Backend Developer Intern -> [digimonk]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning AWS.
 - ⚡ Fun fact: I love to Play PC Games
 
