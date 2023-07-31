@@ -38,4 +38,4 @@
 [instagram]: https://www.instagram.com/divyankojha
 [linkedin]: https://www.linkedin.com/in/divyankojha
 [github]: https://github.com/DivyankOjha
-[digimonk]: https://digimonk.in
+[Seracle]: https://seracle.com
