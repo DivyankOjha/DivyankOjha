@@ -3,7 +3,7 @@
 ## I'm a Developer! & Gamer!
 - 🔭 I’m currently working as a Technical consultant -> [Seracle]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Sharpen my skills.
+- 🥅 2025 Goals: Sharpen my skills.
 - ⚡ Fun fact: I love to Play PC Games
 
 ### Connect with me:
