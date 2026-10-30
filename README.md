@@ -115,7 +115,9 @@ A technology-focused digital platform.
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyankOjha&bg_color=1a1b27&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%" />
+
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=DivyankOjha&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/DivyankOjha)
+
 </div>
 
 ---
