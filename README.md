@@ -126,13 +126,13 @@ A technology-focused digital platform.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/divyankojha">
+<a href="https://www.linkedin.com/in/divyankojha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/divyankojha">
+<a href="https://www.instagram.com/divyankojha" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Follow-BB9AF7?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://github.com/DivyankOjha">
+<a href="https://github.com/DivyankOjha" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-24283B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
