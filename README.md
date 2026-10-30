@@ -1,41 +1,139 @@
-### Hi there, I'm Divyank Ojha 👋
+ <!-- ============================================ -->
+<!--              PROFILE HEADER                  -->
+<!-- ============================================ -->
 
-## I'm a Developer! & Gamer!
-- 🔭 I’m currently working as a Technical consultant -> [Seracle]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: Sharpen my skills.
-- ⚡ Fun fact: I love to Play PC Games
+<div align="center">
 
-### Connect with me:
+# Hey, I'm Divyank Ojha 👋
 
-[<img align="left" alt="DivyankOjha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DivyankOjha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Full-Stack Developer | AI Enthusiast | Tech Explorer
 
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Exploring+AI+%26+Large+Language+Models;Turning+ideas+into+real-world+products;Always+learning+something+new" alt="Typing SVG" />
 
-### Languages and Tools:
+[![GitHub followers](https://img.shields.io/github/followers/DivyankOjha?style=for-the-badge&logo=github&color=7AA2F7&label=Followers)](https://github.com/DivyankOjha)
+[![Profile Views](https://komarev.com/ghpvc/?username=DivyankOjha&style=for-the-badge&color=BB9AF7&label=PROFILE+VIEWS)](https://github.com/DivyankOjha)
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCO-FDXVc5-6G5uIkT8BsWYLwE4qlfrme3OQ&s" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Postman" width="30px" src="https://github.com/DivyankOjha/DivyankOjha/blob/master/heroku-node-1.png" />
-
-
-
-<br />
-<br />
-
+</div>
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DivyankOjha&show_icons=true&hide_border=true&theme=merko" />
+## 👨‍💻 About Me
 
-[instagram]: https://www.instagram.com/divyankojha
-[linkedin]: https://www.linkedin.com/in/divyankojha
-[github]: https://github.com/DivyankOjha
-[Seracle]: https://seracle.com
+I'm a developer who enjoys building products, solving complex problems, and exploring emerging technologies.
+
+- 🚀 Building full-stack applications and scalable backend systems.
+- 💻 Working with React, Next.js, Node.js and TypeScript.
+- ☁️ Exploring cloud architecture, AWS and DevOps.
+- 🤖 Interested in AI, LLMs, and intelligent applications.
+- 🗄️ Working with relational and NoSQL databases.
+- 🎮 Gamer outside the world of code.
+
+💡 *I believe in learning by building and making ideas work in the real world.*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" />
+</p>
+
+### AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Databricks-EA3E3E?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-7AA2F7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-BB9AF7?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/DivyankOjha?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankOjha&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/DivyankOjha?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankOjha&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/DivyankOjha?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankOjha&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<!-- Replace YOUR_PROJECT_1, YOUR_PROJECT_2 and YOUR_PROJECT_3
+     with actual public GitHub repository names. -->
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyankOjha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyankOjha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=DivyankOjha&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyankOjha&bg_color=1a1b27&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/divyankojha">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/divyankojha">
+  <img src="https://img.shields.io/badge/Instagram-Follow-BB9AF7?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/DivyankOjha">
+  <img src="https://img.shields.io/badge/GitHub-Follow-24283B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💜 Thanks for visiting my profile!
+
+*Code. Create. Learn. Repeat.*
+
+</div>
