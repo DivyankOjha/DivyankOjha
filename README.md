@@ -68,25 +68,31 @@ I'm a developer who enjoys building products, solving complex problems, and expl
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/DivyankOjha?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankOjha&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/DivyankOjha?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankOjha&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-</a>
+### 🛍️ Alankrita Store
+An online fashion and shopping platform.
 
-<a href="https://github.com/DivyankOjha?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankOjha&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
-</a>
+[![Live Website](https://img.shields.io/badge/Visit_Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alankrita.store/)
+
+---
+
+### 💰 Credible Finance
+A digital finance platform.
+
+[![Live Website](https://img.shields.io/badge/Visit_Website-BB9AF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://credible.finance/)
+
+---
+
+### 💻 Bytex
+A technology-focused digital platform.
+
+[![Live Website](https://img.shields.io/badge/Visit_Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytex.io/)
 
 </div>
-
-<!-- Replace YOUR_PROJECT_1, YOUR_PROJECT_2 and YOUR_PROJECT_3
-     with actual public GitHub repository names. -->
 
 ---
 
@@ -109,9 +115,7 @@ I'm a developer who enjoys building products, solving complex problems, and expl
 ## 📈 Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyankOjha&bg_color=1a1b27&color=bb9af7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%" />
-
 </div>
 
 ---
