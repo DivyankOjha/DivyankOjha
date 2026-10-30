@@ -116,7 +116,7 @@ A technology-focused digital platform.
 
 <div align="center">
 
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=DivyankOjha&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/DivyankOjha)
+<img src="https://ghchart.rshah.org/BB9AF7/DivyankOjha" alt="Divyank's GitHub Contribution Chart" width="100%" />
 
 </div>
 
